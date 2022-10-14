@@ -16,6 +16,7 @@
 2. 터미널을 실행시킵니다.
   <img src="https://user-images.githubusercontent.com/115002427/195792432-672d5b6e-d85a-4142-a109-a240c46832fc.png">
 3. motion 설치
+  <img src="https://user-images.githubusercontent.com/115002427/195795292-af345ace-511f-4256-9ffd-de976e8a12ca.png">
   
 
 
