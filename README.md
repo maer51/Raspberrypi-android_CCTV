@@ -12,7 +12,7 @@
 
 ## 라즈베리파이 설정
 1. 라즈베리파이를 실행시킵니다.
-img src="https://user-images.githubusercontent.com/115002427/195792397-722c4985-2eac-47b8-9b6f-3680c1059179.png"
+<img src="https://user-images.githubusercontent.com/115002427/195792397-722c4985-2eac-47b8-9b6f-3680c1059179.png">
 
 
 
