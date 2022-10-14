@@ -23,7 +23,7 @@
   <br/><img src="https://user-images.githubusercontent.com/115002427/195800383-ef3258c1-f585-4a4a-bc13-51ff510e8235.png">
   <br/><img src="https://user-images.githubusercontent.com/115002427/195801274-7efdb2dc-cfab-4202-8703-984a7910d376.png" width=583 height=391>
 <br/>6. daemon off → on
-  <br/><br/><img src="https://user-images.githubusercontent.com/115002427/195803524-c775db19-c39f-4f8b-8505-c458c62979b1.png">
+  <br><br/><img src="https://user-images.githubusercontent.com/115002427/195803524-c775db19-c39f-4f8b-8505-c458c62979b1.png">
 
 
 
