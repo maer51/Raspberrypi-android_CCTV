@@ -21,7 +21,7 @@
   <br/><img src="https://user-images.githubusercontent.com/115002427/195797072-d54fa386-cd75-40ff-ad88-d9921181d307.png">
 5. **motion** 설정 (sudo nano /etc/motion/motion.conf)
   <br/><img src="https://user-images.githubusercontent.com/115002427/195800383-ef3258c1-f585-4a4a-bc13-51ff510e8235.png">
-  <br/><img src="https://user-images.githubusercontent.com/115002427/195801274-7efdb2dc-cfab-4202-8703-984a7910d376.png">
+  <br/><img src="https://user-images.githubusercontent.com/115002427/195801274-7efdb2dc-cfab-4202-8703-984a7910d376.png"width=583 height=391>
 
 
 
