@@ -19,7 +19,8 @@
   <br/><img src="https://user-images.githubusercontent.com/115002427/195795292-af345ace-511f-4256-9ffd-de976e8a12ca.png">
 4. **웹캠 인식** 확인 (lsusb)
   <br/><img src="https://user-images.githubusercontent.com/115002427/195797072-d54fa386-cd75-40ff-ad88-d9921181d307.png">
-
+5. **motion** 설정 (sudo nano /etc/motion/motion.conf)
+  <br/><img src="https://user-images.githubusercontent.com/115002427/195800383-ef3258c1-f585-4a4a-bc13-51ff510e8235.png">
 
 
 
