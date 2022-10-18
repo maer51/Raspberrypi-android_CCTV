@@ -89,6 +89,21 @@
 ### **8. motion 폴더권한** 설정 (sudo chmod 777 /var/lib/motion)
   <img src="https://user-images.githubusercontent.com/115002427/196341647-85dba6ab-d383-46ad-b16e-b297a01ccf68.png">
 
+## 포트포워딩 설정
+### **1. 공유기 설정으로 들어간다**
+<img width="436" alt="fort1" src="https://user-images.githubusercontent.com/115002427/196354828-c7fe2ecb-1cb7-4602-9433-6ed0a5bbb373.png">
+
+### **2. DDNS설정을 연다 <br/> (호스트이름을 정하고 사용자ID는 이메일을 써야한다) <br/> (정상 등록이라고 뜨면 성공)**
+<img width="438" alt="fort2" src="https://user-images.githubusercontent.com/115002427/196365513-33d22cb7-98b9-4fa4-966c-c497c0b74da1.png">
+
+
+
+
+
+
+
+
+
 
 
 
