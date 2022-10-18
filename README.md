@@ -96,11 +96,14 @@
 ### **2. DDNS설정을 연다 <br/> (호스트이름을 정하고 사용자ID는 이메일을 써야한다) <br/> (정상 등록이라고 뜨면 성공)**
 <img width="438" alt="fort2" src="https://user-images.githubusercontent.com/115002427/196365513-33d22cb7-98b9-4fa4-966c-c497c0b74da1.png">
 
+### **3. 포트포워딩 설정으로 들어간다** <br/> (내부 ip주소에는 라즈베리파이에 ip주소를 넣는다) <br/> (외부포트는 만번대 숫자 아무거나 넣고 내부포트에는 8081를 넣는다)
+<img width="437" alt="fort3" src="https://user-images.githubusercontent.com/115002427/196369955-6433f1ff-1793-49b7-b69b-44cf0ac4be18.png">
 
+### **4. 코드에 ip주소 부분에 DDNS주소를 넣는다** <br/> (String url = "http://DDNS주소:8081/";
+<img width="387" alt="20221018_165503" src="https://user-images.githubusercontent.com/115002427/196370747-d314ae88-aee8-4dbf-bd18-16e9c3ad5a33.png">
 
-
-
-
+## 사용 시
+<img src="https://user-images.githubusercontent.com/115002427/196373968-070464eb-8a69-45f0-9a35-a38aaf4b6997.jpg" width=270 height=480>
 
 
 
